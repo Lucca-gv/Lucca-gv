@@ -9,7 +9,7 @@ I'm a developer experienced in **Fullstack Web Development**, currently speciali
 
 **🚩 Next steps:** Publishing academic and personal projects (Backend + AI), contributing to open-source, and achieving certifications.
 
-**⚠️ Note:** Currently working on private projects; public academic projects will soon be available here.
+**⚠️ Note:** Currently working on private projects, public academic projects will soon be available here.
 
 **📫 Let's connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/lucas-vasconcelos-coelho) [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:lucas.gvl02@gmail.com)
@@ -27,7 +27,7 @@ Sou desenvolvedor com experiência em **Desenvolvimento Web Fullstack**, atualme
 
 **🚩 Próximos passos:** Publicar meus projetos acadêmicos e pessoais de Backend e IA, contribuir em projetos open-source e obter certificações.
 
-**⚠️ Nota:** Atualmente atuo em projetos privados; em breve disponibilizarei meus projetos acadêmicos e pessoais publicamente aqui.
+**⚠️ Nota:** Atualmente atuo em projetos privados, em breve disponibilizarei meus projetos acadêmicos e pessoais publicamente aqui.
 
 **📫 Entre em contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/lucas-vasconcelos-coelho) [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:lucas.gvl02@gmail.com)
