@@ -1,50 +1,55 @@
 # 👋 Hi, I'm Lucas!
 
-I am a Backend Developer currently specializing in the **Node.js ecosystem (TypeScript, NestJS)**, building upon a solid **3-year professional career as a Fullstack Developer** with **PHP and Laravel**.
+I am a **Backend Software Engineer** focused on building resilient APIs, distributed systems, and tackling performance bottlenecks in enterprise environments. 
 
-This extensive experience has given me a strong foundation in software architecture, creating and maintaining robust RESTful APIs, working with relational databases like PostgreSQL/MySQL, and delivering high-quality products. I am passionate about leveraging this background to build highly scalable, maintainable, and type-safe applications.
+Day-to-day, I take slow or hard-to-maintain legacy systems and apply solid engineering principles (**Clean Architecture, SOLID, DDD**) to optimize them. I believe good code is code the team can read and evolve without fear of breaking things in production.
 
-I am also an enthusiast of **Clean Architecture** and **Domain-Driven Design (DDD)**, and I'm actively exploring **Python/FastAPI** for data-intensive services.
+---
+
+### 🏢 Recent Enterprise Work (Closed Source)
+Because my primary work involves proprietary financial and fiscal data, most of my recent commits are in private repositories. However, here are some architectural highlights I've recently delivered:
+
+* 🚀 **Performance Optimization:** Architected a data processing pipeline using multithreading and message queues, reducing execution time by **over 60%** (from 16h to 6h).
+* 💳 **Payment Gateway Integration:** Took end-to-end ownership of integrating a complete payment API (Tecnospeed), orchestrating the financial flow using **RabbitMQ** and robust background routines.
+* 🛡️ **System Reliability:** Reduced incident rates and bug tickets by **46%** through strategic codebase refactoring and strict architectural standards.
 
 ---
 
 ### 💻 Technologies & Tools
 
-My skill set is divided into my current professional focus and the technologies I've mastered throughout my career.
+My skill set is divided into my core backend engineering focus and the tools I use to scale applications.
 
-#### 🎯 Core Focus (Node.js Ecosystem)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+#### 🎯 Core Backend & Architecture
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+#### ⚙️ Data, Messaging & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-#### 🏆 Professional Experience & Familiar With
-
-![PHP](https://img.shields.io/badge/-PHP_8.x-777BB4?logo=php&logoColor=white)
+#### 🏆 Solid Background (Legacy & Web)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ### 🌱 I’m currently focusing on...
 
-- Deepening my expertise in **Domain-Driven Design (DDD)** and **Microservices Architecture** within the NestJS framework.
-- Mastering advanced patterns for building enterprise-level, event-driven applications.
-- Containerization and orchestration with **Docker** and exploring CI/CD pipelines for automated deployments.
+- Diving deep into the **Java ecosystem (Spring Boot)** to tackle larger enterprise and banking challenges.
+- Mastering advanced patterns for building distributed, event-driven applications.
+- Deepening my expertise in **Domain-Driven Design (DDD)**.
 
 ---
 
 ### 📫 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vasconcelos-coelho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-v-coelho)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.gvl02@gmail.com)
 
 ---
@@ -54,43 +59,25 @@ My skill set is divided into my current professional focus and the technologies 
   
   ## 👋 Olá, eu sou o Lucas!
 
-Sou um Desenvolvedor Backend atualmente me especializando no **ecossistema Node.js (TypeScript, NestJS)**, aproveitando uma sólida **carreira profissional de 3 anos como Desenvolvedor Fullstack** com **PHP e Laravel**.
+  Sou um **Engenheiro de Software Backend** focado em construir APIs resilientes, sistemas distribuídos e em resolver gargalos de performance em ambientes corporativos.
 
-Essa vasta experiência me proporcionou uma base robusta em arquitetura de software, criação e manutenção de APIs RESTful, trabalho com bancos de dados relacionais como PostgreSQL/MySQL e entrega de produtos de alta qualidade. Sou apaixonado por usar essa bagagem para construir aplicações altamente escaláveis, sustentáveis e com tipagem segura.
+  No dia a dia, pego sistemas lentos ou difíceis de manter e aplico princípios sólidos de engenharia (**Clean Architecture, SOLID, DDD**) para otimizá-los. Acredito que código bom é aquele que a equipe consegue ler e evoluir sem medo de quebrar a produção.
 
-Também sou um entusiasta de **Clean Architecture** e **Domain-Driven Design (DDD)**, e estou ativamente explorando **Python/FastAPI** para serviços com uso intensivo de dados.
+  ---
 
----
+  ### 🏢 Atuação Corporativa Recente (Closed Source)
+  Como meu trabalho principal envolve dados financeiros e fiscais proprietários, a maioria dos meus commits recentes está em repositórios privados. No entanto, aqui estão alguns destaques arquiteturais que entreguei recentemente:
 
-### 💻 Tecnologias & Ferramentas
+  * 🚀 **Otimização de Performance:** Arquitetou um pipeline de processamento de dados usando multithreading e mensageria, reduzindo o tempo de execução em **mais de 60%** (de 16h para 6h).
+  * 💳 **Integração de Gateway de Pagamento:** Assumi de ponta a ponta a integração de uma API completa de pagamentos (Tecnospeed), orquestrando o fluxo financeiro com **RabbitMQ** e rotinas em background.
+  * 🛡️ **Confiabilidade de Sistema:** Reduziu a taxa de incidentes e tickets de bugs em **46%** mediante refatoração estratégica e adoção estrita de padrões de arquitetura.
 
-Meu conjunto de habilidades se divide entre meu foco profissional atual e as tecnologias que dominei ao longo da minha carreira.
+  ---
 
-#### 🎯 Foco Principal (Ecossistema Node.js)
+  ### 🌱 Meu Foco Atual...
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+  * Mergulhando fundo no ecossistema **Java (Spring Boot)**, de olho em desafios maiores em sistemas corporativos e bancários.
+  * Dominando padrões avançados para a construção de aplicações distribuídas e orientadas a eventos.
+  * Aprofundando minha expertise em **Domain-Driven Design (DDD)**.
 
-#### 🏆 Experiência Profissional e Familiaridade
-
-![PHP](https://img.shields.io/badge/-PHP_8.x-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
----
-
-### 🌱 Meu Foco Atual...
-
-- Aprofundar minha expertise em **Domain-Driven Design (DDD)** e **Arquitetura de Microsserviços** dentro do framework NestJS.
-- Dominar padrões avançados para a construção de aplicações de nível enterprise orientadas a eventos.
-- Conteinerização e orquestração com **Docker** e explorar pipelines de CI/CD para deployments automatizados.
 </details>
